@@ -82,22 +82,22 @@ class SqliteService {
   ];
   List<ProductModel> products = [
     ProductModel(
-        name: "Coca-Cola Classic 2л пластик 800",
+        name: "Coca-Cola Classic 2л пластик",
         commonNumber: 999,
         price: 400),ProductModel(
-        name: "Coca-Cola Classic 2л пластик 800",
+        name: "Coca-Cola Classic 2л пластик",
         commonNumber: 999,
         price: 400),ProductModel(
-        name: "Coca-Cola Classic 2л пластик 800",
+        name: "Coca-Cola Classic 2л пластик",
         commonNumber: 999,
         price: 400),ProductModel(
-        name: "Coca-Cola Classic 2л пластик 800",
+        name: "Coca-Cola Classic 2л пластик",
         commonNumber: 999,
         price: 400),ProductModel(
-        name: "Coca-Cola Classic 2л пластик 800",
+        name: "Coca-Cola Classic 2л пластик",
         commonNumber: 999,
         price: 400),ProductModel(
-        name: "Coca-Cola Classic 2л пластик 800",
+        name: "Coca-Cola Classic 2л пластик",
         commonNumber: 999,
         price: 400),
   ];
@@ -106,10 +106,10 @@ class SqliteService {
         name: "Coca-Cola Classic 2л пластик",
         commonNumber: 4,
         price: 200),ProductModel(
-        name: "Coca-Cola Classic 2л пластик 800",
+        name: "Coca-Cola Classic 2л пластик",
         commonNumber: 4,
         price: 200),ProductModel(
-        name: "Coca-Cola Classic 2л пластик 800",
+        name: "Coca-Cola Classic 2л пластик",
         commonNumber: 4,
         price: 200),
   ];
